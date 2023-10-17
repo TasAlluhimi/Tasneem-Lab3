@@ -2,6 +2,7 @@
 
 .body-page-1{
     background-color:#F9F5F6;
+    text-align: center;
 
 }
 .div-page-1{
@@ -17,6 +18,8 @@
 
 .body-page-2{
     background-color:#EEE3CB;
+    border: 1px solid #281a01;
+
 
 }
 
