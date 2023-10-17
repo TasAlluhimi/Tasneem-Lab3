@@ -1,3 +1,5 @@
+/* page 1 */
+
 .body-page-1{
     background-color:#F9F5F6;
 
@@ -9,4 +11,21 @@
 }
 .paragraph-of-page1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* page 2 */
+
+.body-page-2{
+    background-color:#EEE3CB;
+
+}
+
+.div-page-2{
+    padding: 10px;
+    background-color:#967E76;
+    text-align: center;
+}
+
+.paragraph-of-page2{
+    font-family: 'Times New Roman', Times, serif;
 }
